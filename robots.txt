@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://garlenen.github.io/sitemap.html.gz
+Sitemap: https://garlenen.github.io/app/sitemap.html.gz
+Sitemap: https://garlenen.github.io/assets/sitemap.html.gz
+Sitemap: https://garlenen.github.io/css/sitemap.html.gz
+Sitemap: https://garlenen.github.io/includes/sitemap.html.gz
+Sitemap: https://garlenen.github.io/item/sitemap.html.gz
+Sitemap: https://garlenen.github.io/src/sitemap.html.gz
